@@ -23,6 +23,7 @@ function Tarjeta(props){
 
     <button onClick={incrementaredad}>Aumentar edad</button>
     <button onClick={disminuiredad}>Disminuir edad</button>
+    
     </div>
     )
     }
